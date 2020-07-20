@@ -1,0 +1,38 @@
+[
+  {
+    "input": "hello",
+    "output": "friend"
+  },
+  {
+    "input": "how",
+    "output": "are you"
+  },
+  {
+    "input": "you",
+    "output": "there"
+  },
+  {
+    "input": "drink",
+    "output": "water"
+  },
+  {
+    "input": "do",
+    "output": "you"
+  },
+  {
+    "input": "where",
+    "output": "is"
+  },
+  {
+    "input": "turn",
+    "output": "right"
+  },
+  {
+    "input": "build",
+    "output": "a house"
+  },
+  {
+    "input": "call",
+    "output": "me"
+  }
+]
