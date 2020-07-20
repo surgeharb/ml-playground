@@ -3,6 +3,8 @@ import brain from 'brain.js';
 
 const inputWord = process.argv[2];
 
+const trainingOptions = {};
+
 const trainedDataPath = './data/text-prediction/trained-net.json';
 const trainingDataPath = './data/text-prediction/training.json';
 
